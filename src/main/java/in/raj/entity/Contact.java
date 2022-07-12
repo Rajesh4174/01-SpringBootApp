@@ -10,7 +10,7 @@ import javax.persistence.Table;
 
 import org.hibernate.annotations.CreationTimestamp;
 @Entity
-@Table(name="Contact_Details")
+@Table(name="Contact_Detail")
 public class Contact {
 	
 	
